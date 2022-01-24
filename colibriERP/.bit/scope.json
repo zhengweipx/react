@@ -1,0 +1,11 @@
+{
+    "name": "colibrierp",
+    "remotes": {
+        "remote-scope": "http://192.168.50.3:3000"
+    },
+    "version": "1.0.183",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}

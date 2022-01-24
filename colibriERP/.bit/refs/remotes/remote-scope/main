@@ -1,0 +1,30 @@
+[
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "common/pagination"
+    },
+    "head": "8a492a5eea9f22d252e895ca902da18ff3d74ded"
+  },
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "figma-embed"
+    },
+    "head": "2a09fc9ab46272123c730c1c2fcab834a5829b02"
+  },
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "remote-scope/figma-embed"
+    },
+    "head": "f8fc8a70c7970565263ca7e5fa9d563e6d262f1b"
+  },
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "common/figma-embed"
+    },
+    "head": "a20c916c56a2e2104898a82300bc7faf490a810f"
+  }
+]

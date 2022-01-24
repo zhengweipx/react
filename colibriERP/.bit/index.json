@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "remote-scope",
+        "name": "common/pagination"
+      },
+      "isSymlink": false,
+      "hash": "78dd6131c1ec9085364f3a0b1bad3f6582075023"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "common/figma-embed"
+      },
+      "isSymlink": true,
+      "hash": "929f1e74203910e5a12cb932022b5d82f3a5842a"
+    },
+    {
+      "id": {
+        "scope": "remote-scope",
+        "name": "common/figma-embed"
+      },
+      "isSymlink": false,
+      "hash": "1b50243eba511ce361bff3dff8b59bf19220cca9"
+    }
+  ],
+  "lanes": []
+}
